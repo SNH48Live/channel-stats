@@ -1,0 +1,48 @@
+=== CHANNEL ===
+days:        123
+videos:      204
+subscribers: 1069
+views:       126498
+
+=== RECENT VIDEOS ===
+20170722 SNH48 Team X 梦想的旗帜 43 宋昕冉生日主题公演暨总选拉票公演
+https://youtu.be/lMFDvCBpL6M
+50v	+0	-0	0c
+
+20170722 SNH48 Team SⅡ 第48区 06 徐晨辰生日主题公演暨总选拉票公演
+https://youtu.be/A0vB9EP3lPQ
+370v	+22	-0	5c
+
+20170721 SNH48 Team NⅡ 专属派对 48
+https://youtu.be/mvVbvBpI8bc
+1393v	+18	-3	6c
+
+20170720 SNH48 Team XⅡ 代号XⅡ 36 陈韫凌总选拉票公演
+https://youtu.be/NUB98pG7fkI
+508v	+4	-0	0c
+
+20170719 Team HⅡ 美丽世界 23 咪咕专场暨杨惠婷、袁航总选拉票公演
+https://youtu.be/TMB4kQHYUvY
+658v	+15	-0	10c
+
+=== TOP VIDEOS ===
+20170707 SNH48 星机女学院 第01集
+https://youtu.be/fCxLhzy4jRU
+5367v	+76	-0	15c
+
+20170630 SNH48 Team SⅡ 第48区 01
+https://youtu.be/Q_bvusD4jgg
+4817v	+76	-2	27c
+
+20170701 SNH48 Team SⅡ 第48区 02 张语格生日主题公演暨总选拉票公演
+https://youtu.be/q25sTDMFAdU
+3791v	+56	-1	17c
+
+20170702 SNH48 Team SⅡ 第48区 03 暨李宇琪总选拉票公演
+https://youtu.be/Pr_BVduidAQ
+2858v	+46	-2	12c
+
+20170707 SNH48 Team SⅡ 第48区 04 陈观慧、袁丹妮、邱欣怡总选拉票公演
+https://youtu.be/u0jCtCx7it4
+2699v	+47	-0	17c
+
