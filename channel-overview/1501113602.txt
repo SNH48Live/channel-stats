@@ -1,6 +1,3 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        127
 videos:      206
@@ -10,7 +7,7 @@ views:       136485
 === RECENT VIDEOS ===
 20170723 SNH48 Team X 梦想的旗帜 44 汪佳翎生日主题公演暨总选拉票公演
 https://youtu.be/6YEX1es9Ctc
-441v	+8	-0	5c
+441v	+7	-0	5c
 
 20170723 SNH48 我们向前冲 08 吕一生日主题公演暨总选拉票公演
 https://youtu.be/Z8PyNvbF2j0
@@ -31,7 +28,7 @@ https://youtu.be/mvVbvBpI8bc
 === TOP VIDEOS ===
 20170707 SNH48 星机女学院 第01集
 https://youtu.be/fCxLhzy4jRU
-5830v	+80	-0	18c
+5830v	+79	-0	18c
 
 20170630 SNH48 Team SⅡ 第48区 01
 https://youtu.be/Q_bvusD4jgg
@@ -48,19 +45,4 @@ https://youtu.be/Pr_BVduidAQ
 20170707 SNH48 Team SⅡ 第48区 04 陈观慧、袁丹妮、邱欣怡总选拉票公演
 https://youtu.be/u0jCtCx7it4
 2881v	+47	-0	17c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-06 [video] 20170707 SNH48 星机女学院 第01集
-   https://youtu.be/fCxLhzy4jRU
-
-09 [video] 20170722 SNH48 Team SⅡ 第48区 06 徐晨辰生日主题公演暨总选拉票公演
-   https://youtu.be/A0vB9EP3lPQ
-
-23 [video] 20170630 SNH48 Team SⅡ 第48区 01
-   https://youtu.be/Q_bvusD4jgg
-
-40 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
 
