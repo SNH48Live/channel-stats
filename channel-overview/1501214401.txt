@@ -1,6 +1,3 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        128
 videos:      207
@@ -48,19 +45,4 @@ https://youtu.be/Pr_BVduidAQ
 20170707 SNH48 Team SⅡ 第48区 04 陈观慧、袁丹妮、邱欣怡总选拉票公演
 https://youtu.be/u0jCtCx7it4
 2901v	+47	-0	17c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-08 [video] 20170707 SNH48 星机女学院 第01集
-   https://youtu.be/fCxLhzy4jRU
-
-12 [video] 20170722 SNH48 Team SⅡ 第48区 06 徐晨辰生日主题公演暨总选拉票公演
-   https://youtu.be/A0vB9EP3lPQ
-
-36 [video] 20170630 SNH48 Team SⅡ 第48区 01
-   https://youtu.be/Q_bvusD4jgg
-
-48 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
 
