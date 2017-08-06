@@ -1,24 +1,21 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        137
 videos:      237
-subscribers: 1371
+subscribers: 1368
 views:       163101
 
 === RECENT VIDEOS ===
 20170805 SNH48 Team X 梦想的旗帜 45 祁静生日主题公演
 https://youtu.be/_jBUQG0Tpko
-250v	+7	-0	3c
+190v	+6	-0	3c
 
 20170805 SNH48 Team SⅡ 第48区 07 袁丹妮生日主题公演
 https://youtu.be/fXWIZkmrWeg
-1413v	+46	-0	13c
+1231v	+44	-0	11c
 
 20170804 SNH48 Team HⅡ 美丽世界 24
 https://youtu.be/KbTOpeofKJQ
-922v	+11	-0	4c
+897v	+11	-0	4c
 
 SNH48《公主披风》——20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会
 https://youtu.be/KfiG81vY6mw
@@ -31,7 +28,7 @@ https://youtu.be/BqLeFsm6ol4
 === TOP VIDEOS ===
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
 https://youtu.be/OD0eR-eWp1g
-12948v	+114	-5	53c
+12869v	+113	-5	53c
 
 20170729 ”我心翱翔“SNH48 Group第四届偶像年度人气总决选演唱会直播（非官方）
 https://youtu.be/gpCaUqYAmzg
@@ -47,7 +44,7 @@ https://youtu.be/Q_bvusD4jgg
 
 20170701 SNH48 Team SⅡ 第48区 02 张语格生日主题公演暨总选拉票公演
 https://youtu.be/q25sTDMFAdU
-4692v	+63	-1	19c
+4667v	+63	-1	19c
 
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
 https://youtu.be/unuU-hx2lSc
@@ -55,7 +52,7 @@ https://youtu.be/unuU-hx2lSc
 
 20170702 SNH48 Team SⅡ 第48区 03 暨李宇琪总选拉票公演
 https://youtu.be/Pr_BVduidAQ
-3374v	+50	-2	16c
+3374v	+49	-2	16c
 
 20170707 SNH48 Team SⅡ 第48区 04 陈观慧、袁丹妮、邱欣怡总选拉票公演
 https://youtu.be/u0jCtCx7it4
@@ -68,22 +65,4 @@ https://youtu.be/qkScOEaJQr0
 20170427 SNH48 7SENSES 1st Showcase in Beijing 北京首演
 https://youtu.be/qTbAAo90gn0
 2519v	+44	-1	7c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-01 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-06 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
-   https://youtu.be/unuU-hx2lSc
-
-11 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-18 [video] 20170707 SNH48 星机女学院 第01集
-   https://youtu.be/fCxLhzy4jRU
-
-25 [video] 20170805 SNH48 Team SⅡ 第48区 07 袁丹妮生日主题公演
-   https://youtu.be/fXWIZkmrWeg
 
