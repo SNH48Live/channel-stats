@@ -1,6 +1,3 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        161
 videos:      259
@@ -10,19 +7,19 @@ views:       218973
 === RECENT VIDEOS ===
 SNH48《醉清风》
 https://youtu.be/ndbRXPWWQz0
-555v	+29	-0	25c
+553v	+29	-0	25c
 
 20170827 SNH48 “佳期如梦”七夕情人节特别公演
 https://youtu.be/M6aFWdm2Hx8
-2678v	+53	-0	15c
+2661v	+52	-0	15c
 
 20170826 SNH48 Team XⅡ 代号XⅡ 40 吕梦莹生日主题公演
 https://youtu.be/YkmPY9jF9MI
-561v	+8	-0	0c
+558v	+8	-0	0c
 
 20170825 SNH48 我们向前冲 10 赵晔生日主题公演
 https://youtu.be/R1ClKvOcQlI
-424v	+8	-0	4c
+421v	+8	-0	4c
 
 20170825 SNH48 星梦Mini Live（徐晗）
 https://youtu.be/fhhMRNVadU4
@@ -31,7 +28,7 @@ https://youtu.be/fhhMRNVadU4
 === TOP VIDEOS ===
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
 https://youtu.be/OD0eR-eWp1g
-18229v	+138	-7	63c
+18226v	+138	-7	63c
 
 20170729 ”我心翱翔“SNH48 Group第四届偶像年度人气总决选演唱会直播（非官方）
 https://youtu.be/gpCaUqYAmzg
@@ -43,15 +40,15 @@ https://youtu.be/fCxLhzy4jRU
 
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
 https://youtu.be/unuU-hx2lSc
-6474v	+58	-1	47c
+6473v	+58	-1	47c
 
 20170630 SNH48 Team SⅡ 第48区 01
 https://youtu.be/Q_bvusD4jgg
-6321v	+89	-2	28c
+6319v	+89	-2	28c
 
 20170701 SNH48 Team SⅡ 第48区 02 张语格生日主题公演暨总选拉票公演
 https://youtu.be/q25sTDMFAdU
-5587v	+71	-1	22c
+5585v	+71	-1	22c
 
 20170805 SNH48 Team SⅡ 第48区 07 袁丹妮生日主题公演
 https://youtu.be/fXWIZkmrWeg
@@ -67,23 +64,5 @@ https://youtu.be/u0jCtCx7it4
 
 20170811 SNH48 Team SⅡ 第48区 08
 https://youtu.be/JxJQjgGT7t4
-3692v	+56	-0	24c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-02 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-08 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-10 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
-   https://youtu.be/unuU-hx2lSc
-
-15 [video] 20170817 SNH48 Team SⅡ 第48区 09
-   https://youtu.be/PHIs7h4tBDQ
-
-22 [video] 20170707 SNH48 星机女学院 第01集
-   https://youtu.be/fCxLhzy4jRU
+3690v	+56	-0	24c
 
