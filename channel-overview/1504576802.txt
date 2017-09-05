@@ -1,6 +1,3 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        167
 videos:      271
@@ -10,28 +7,28 @@ views:       229998
 === RECENT VIDEOS ===
 SNH48星梦剧院四周年庆：周年庆公演精彩集锦
 https://youtu.be/EITaxjqtOLc
-55v	+1	-0	1c
+7v	+1	-0	1c
 
 SNH48星梦剧院四周年庆：精彩MC集锦
 https://youtu.be/i0NSM359RkI
-22v	+0	-0	1c
+4v	+0	-0	1c
 
 SNH48星梦剧院四周年庆：个人舞蹈集锦
 https://youtu.be/lmbJ0k08fSQ
-23v	+0	-0	2c
+6v	+0	-0	2c
 
 SNH48星梦剧院四周年庆：经典歌曲solo集锦
 https://youtu.be/wOmtOU_Fh-o
-53v	+0	-0	2c
+14v	+0	-0	2c
 
 20170903 SNH48 Team SⅡ 第48区 10
 https://youtu.be/SP-MFOI-nys
-1251v	+29	-0	8c
+1241v	+28	-0	8c
 
 === TOP VIDEOS ===
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
 https://youtu.be/OD0eR-eWp1g
-19108v	+139	-7	65c
+19099v	+140	-7	65c
 
 20170729 ”我心翱翔“SNH48 Group第四届偶像年度人气总决选演唱会直播（非官方）
 https://youtu.be/gpCaUqYAmzg
@@ -43,11 +40,11 @@ https://youtu.be/fCxLhzy4jRU
 
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
 https://youtu.be/unuU-hx2lSc
-6844v	+60	-1	49c
+6842v	+60	-1	49c
 
 20170630 SNH48 Team SⅡ 第48区 01
 https://youtu.be/Q_bvusD4jgg
-6482v	+92	-2	28c
+6480v	+92	-2	28c
 
 20170701 SNH48 Team SⅡ 第48区 02 张语格生日主题公演暨总选拉票公演
 https://youtu.be/q25sTDMFAdU
@@ -55,11 +52,11 @@ https://youtu.be/q25sTDMFAdU
 
 20170805 SNH48 Team SⅡ 第48区 07 袁丹妮生日主题公演
 https://youtu.be/fXWIZkmrWeg
-4630v	+70	-0	25c
+4628v	+70	-0	25c
 
 20170702 SNH48 Team SⅡ 第48区 03 暨李宇琪总选拉票公演
 https://youtu.be/Pr_BVduidAQ
-4096v	+60	-2	16c
+4094v	+60	-2	16c
 
 20170811 SNH48 Team SⅡ 第48区 08
 https://youtu.be/JxJQjgGT7t4
@@ -67,26 +64,5 @@ https://youtu.be/JxJQjgGT7t4
 
 20170827 SNH48 “佳期如梦”七夕情人节特别公演
 https://youtu.be/M6aFWdm2Hx8
-3981v	+62	-0	12c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-02 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-08 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-13 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
-   https://youtu.be/unuU-hx2lSc
-
-20 [video] 20170903 SNH48 Team SⅡ 第48区 10
-   https://youtu.be/SP-MFOI-nys
-
-25 [video] 20170707 SNH48 星机女学院 第01集
-   https://youtu.be/fCxLhzy4jRU
-
-27 [video] 20170817 SNH48 Team SⅡ 第48区 09
-   https://youtu.be/PHIs7h4tBDQ
+3973v	+62	-0	12c
 
