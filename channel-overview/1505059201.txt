@@ -1,32 +1,29 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
-days:        173
+days:        172
 videos:      276
-subscribers: 1689
-views:       241013
+subscribers: 1682
+views:       239197
 
 === RECENT VIDEOS ===
 20170910 SNH48 Team NⅡ 专属派对 51 剧场四周年特别公演
 https://youtu.be/DU1CoxQj-wA
-476v	+11	-2	8c
+0v	+0	-0	0c
 
 20170909 SNH48 Team SⅡ 第48区 11 剧场四周年特别公演
 https://youtu.be/zvgqY5fMJFI
-2101v	+65	-1	18c
+1708v	+57	-1	17c
 
 20170908 SNH48 Team HⅡ 美丽世界 31 剧场四周年特别公演
 https://youtu.be/OBnpp_2pr2Q
-645v	+14	-0	0c
+616v	+14	-0	0c
 
 20170907 SNH48 Team X 梦想的旗帜 51 剧场四周年特别公演
 https://youtu.be/EcBYYiIyoyU
-700v	+17	-0	1c
+675v	+16	-0	1c
 
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
 https://youtu.be/OD0eR-eWp1g
-19867v	+147	-8	66c
+19819v	+147	-8	66c
 
 === TOP VIDEOS ===
 20170729 ”我心翱翔“SNH48 Group第四届偶像年度人气总决选演唱会直播（非官方）
@@ -35,54 +32,33 @@ https://youtu.be/gpCaUqYAmzg
 
 20170707 SNH48 星机女学院 第01集
 https://youtu.be/fCxLhzy4jRU
-7354v	+90	-1	18c
+7343v	+90	-1	18c
 
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
 https://youtu.be/unuU-hx2lSc
-7144v	+61	-2	50c
+7126v	+61	-2	50c
 
 20170630 SNH48 Team SⅡ 第48区 01
 https://youtu.be/Q_bvusD4jgg
-6603v	+94	-2	28c
+6593v	+94	-2	28c
 
 20170701 SNH48 Team SⅡ 第48区 02 张语格生日主题公演暨总选拉票公演
 https://youtu.be/q25sTDMFAdU
-5883v	+74	-1	22c
+5867v	+74	-1	22c
 
 20170805 SNH48 Team SⅡ 第48区 07 袁丹妮生日主题公演
 https://youtu.be/fXWIZkmrWeg
-4773v	+70	-0	25c
+4759v	+70	-0	25c
 
 20170827 SNH48 “佳期如梦”七夕情人节特别公演
 https://youtu.be/M6aFWdm2Hx8
-4410v	+66	-0	14c
+4379v	+66	-0	14c
 
 20170702 SNH48 Team SⅡ 第48区 03 暨李宇琪总选拉票公演
 https://youtu.be/Pr_BVduidAQ
-4187v	+60	-2	17c
+4177v	+60	-2	17c
 
 20170811 SNH48 Team SⅡ 第48区 08
 https://youtu.be/JxJQjgGT7t4
-3993v	+58	-0	24c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-02 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-08 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-14 [video] 20170909 SNH48 Team SⅡ 第48区 11 剧场四周年特别公演
-   https://youtu.be/zvgqY5fMJFI
-
-19 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
-   https://youtu.be/unuU-hx2lSc
-
-32 [video] 20170707 SNH48 星机女学院 第01集
-   https://youtu.be/fCxLhzy4jRU
-
-45 [video] 20170817 SNH48 Team SⅡ 第48区 09
-   https://youtu.be/PHIs7h4tBDQ
+3985v	+58	-0	24c
 
