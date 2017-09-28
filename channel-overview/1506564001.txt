@@ -1,6 +1,3 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        190
 videos:      297
@@ -10,28 +7,28 @@ views:       277208
 === RECENT VIDEOS ===
 SNH48 Team NⅡ《以爱之名》公演宣传片
 https://youtu.be/PhyViyubeWM
-220v	+5	-1	7c
+219v	+5	-1	7c
 
 20170924 SNH48 Team X 梦想的旗帜 54
 https://youtu.be/CFN9TzPPJPc
-148v	+2	-0	1c
+143v	+2	-0	1c
 
 20170924 SNH48 Team HⅡ 美丽世界 32 许杨玉琢生日主题公演
 https://youtu.be/stq7AQxuseM
-239v	+5	-0	3c
+234v	+5	-0	3c
 
 20170923 SNH48 Team SⅡ 第48区 12 吴哲晗生日主题公演
 https://youtu.be/aV1c2DXULjE
-2169v	+53	-1	13c
+2167v	+53	-1	13c
 
 20170923 SNH48 Team XⅡ 代号XⅡ 46
 https://youtu.be/em64NhkeO80
-581v	+8	-0	0c
+574v	+8	-0	0c
 
 === TOP VIDEOS ===
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
 https://youtu.be/OD0eR-eWp1g
-21729v	+155	-9	64c
+21714v	+155	-9	64c
 
 20170729 ”我心翱翔“SNH48 Group第四届偶像年度人气总决选演唱会直播（非官方）
 https://youtu.be/gpCaUqYAmzg
@@ -43,15 +40,15 @@ https://youtu.be/unuU-hx2lSc
 
 20170707 SNH48 星机女学院 第01集
 https://youtu.be/fCxLhzy4jRU
-7649v	+89	-1	19c
+7645v	+89	-1	19c
 
 20170630 SNH48 Team SⅡ 第48区 01
 https://youtu.be/Q_bvusD4jgg
-7046v	+97	-2	28c
+7042v	+97	-2	28c
 
 20170701 SNH48 Team SⅡ 第48区 02 张语格生日主题公演暨总选拉票公演
 https://youtu.be/q25sTDMFAdU
-6388v	+80	-1	25c
+6386v	+80	-1	25c
 
 20170805 SNH48 Team SⅡ 第48区 07 袁丹妮生日主题公演
 https://youtu.be/fXWIZkmrWeg
@@ -63,27 +60,9 @@ https://youtu.be/M6aFWdm2Hx8
 
 20170909 SNH48 Team SⅡ 剧场四周年特别公演
 https://youtu.be/zvgqY5fMJFI
-4678v	+84	-2	33c
+4674v	+84	-2	33c
 
 20170702 SNH48 Team SⅡ 第48区 03 暨李宇琪总选拉票公演
 https://youtu.be/Pr_BVduidAQ
-4452v	+61	-2	17c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-02 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-14 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
-   https://youtu.be/unuU-hx2lSc
-
-22 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-27 [video] 20170923 SNH48 Team SⅡ 第48区 12 吴哲晗生日主题公演
-   https://youtu.be/aV1c2DXULjE
-
-28 [video] 20170707 SNH48 星机女学院 第01集
-   https://youtu.be/fCxLhzy4jRU
+4449v	+61	-2	17c
 
