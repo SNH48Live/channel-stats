@@ -1,0 +1,14 @@
+
+Failed to start a local webserver listening on either port 8080
+or port 8090. Please check your firewall settings and locally
+running programs that may be blocking or using those ports.
+
+Falling back to --noauth_local_webserver and continuing with
+authorization.
+
+
+Go to the following link in your browser:
+
+    https://accounts.google.com/o/oauth2/auth?client_id=580649526459-ce3qs81hjjagv2ir92rq0sg4u6a0mqog.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&access_type=offline&response_type=code
+
+Enter verification code: 
