@@ -1,6 +1,3 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        221
 videos:      461
@@ -68,31 +65,4 @@ https://youtu.be/M6aFWdm2Hx8
 20170805 SNH48 Team SⅡ 第48区 07 袁丹妮生日主题公演
 https://youtu.be/fXWIZkmrWeg
 5376v	+74	-0	25c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-02 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-20 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
-   https://youtu.be/unuU-hx2lSc
-
-21 [video] 20171026 SNH48 Team NⅡ 以爱之名 05
-   https://youtu.be/6LNc8BnKX3g
-
-22 [video] 20171010 SNH48 48狼人杀 01
-   https://youtu.be/ZIDffMW2bF0
-
-29 [video] 20171025 SNH48 Team SⅡ 第48区 18
-   https://youtu.be/b8DKW7_nqlk
-
-38 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-41 [video] 20170707 SNH48 星机女学院 第01集
-   https://youtu.be/fCxLhzy4jRU
-
-44 [video] 20171007 SNH48 Team NⅡ 以爱之名 01
-   https://youtu.be/-AwgftOOzg4
 
