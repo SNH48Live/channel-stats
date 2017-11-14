@@ -1,28 +1,25 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        237
 videos:      485
-subscribers: 2162
+subscribers: 2161
 views:       408143
 
 === RECENT VIDEOS ===
 20171112 SNH48 Team X 梦想的旗帜 63 邵雪聪生日主题公演
 https://youtu.be/Qnwk_K-JzHw
-190v	+5	-0	0c
+189v	+5	-0	0c
 
 20171112 SNH48 Team HⅡ 美丽世界 40 郝婉晴生日主题公演
 https://youtu.be/n0HpMrV2cG0
-218v	+8	-0	0c
+215v	+8	-0	0c
 
 20171111 SNH48 Team SⅡ S队成立四周年特别公演
 https://youtu.be/JFved88vYWM
-1973v	+57	-1	11c
+1968v	+58	-1	10c
 
 20171111 SNH48 Team NⅡ 以爱之名 07 2.0进化论首演
 https://youtu.be/tnCJXglItF4
-994v	+27	-0	24c
+986v	+26	-0	22c
 
 20171110 SNH48 Team HⅡ 美丽世界 39
 https://youtu.be/BLSMSV2oZ8Q
@@ -31,11 +28,11 @@ https://youtu.be/BLSMSV2oZ8Q
 === TOP VIDEOS ===
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
 https://youtu.be/OD0eR-eWp1g
-26142v	+167	-14	56c
+26140v	+167	-14	56c
 
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
 https://youtu.be/unuU-hx2lSc
-9962v	+74	-3	58c
+9961v	+74	-3	58c
 
 20170729 ”我心翱翔“SNH48 Group第四届偶像年度人气总决选演唱会直播（非官方）
 https://youtu.be/gpCaUqYAmzg
@@ -55,11 +52,11 @@ https://youtu.be/q25sTDMFAdU
 
 20171001 SNH48 “歌唱祖国”国庆节特别公演
 https://youtu.be/t1Tj7Hvxiz8
-7145v	+55	-4	22c
+7142v	+55	-4	22c
 
 20171010 SNH48 48狼人杀 01
 https://youtu.be/ZIDffMW2bF0
-6391v	+58	-3	18c
+6389v	+58	-3	18c
 
 20170909 SNH48 Team SⅡ 剧场四周年特别公演
 https://youtu.be/zvgqY5fMJFI
@@ -68,22 +65,4 @@ https://youtu.be/zvgqY5fMJFI
 20170827 SNH48 “佳期如梦”七夕情人节特别公演
 https://youtu.be/M6aFWdm2Hx8
 5562v	+72	-0	16c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-06 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-26 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
-   https://youtu.be/unuU-hx2lSc
-
-30 [video] 20171111 SNH48 Team SⅡ S队成立四周年特别公演
-   https://youtu.be/JFved88vYWM
-
-33 [video] 20171111 SNH48 Team NⅡ 以爱之名 07 2.0进化论首演
-   https://youtu.be/tnCJXglItF4
-
-42 [video] 20171010 SNH48 48狼人杀 01
-   https://youtu.be/ZIDffMW2bF0
 
