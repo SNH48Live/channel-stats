@@ -1,41 +1,38 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        249
 videos:      502
 subscribers: 2235
-views:       436934
+views:       436692
 
 === RECENT VIDEOS ===
 20171125 SNH48 Team NⅡ 以爱之名 08 万丽娜生日主题公演
 https://youtu.be/c5VzvlgJ614
-219v	+8	-0	1c
+199v	+8	-0	0c
 
 20171125 SNH48 Team XⅡ 代号XⅡ 53
 https://youtu.be/ukytHoI0vZM
-130v	+5	-0	0c
+122v	+4	-0	0c
 
 20171124 SNH48 Team SⅡ 第48区 21 星梦学院主题公演
 https://youtu.be/kstMxsv8HLI
-820v	+28	-1	6c
+807v	+28	-1	6c
 
 20171116 SNH48 Team X 金曲大赏特别赏析环节
 https://youtu.be/_xZ7Re4JSLA
-80v	+1	-0	0c
+79v	+1	-0	0c
 
 20171124 SNH48 星梦Mini Live（祁静）
 https://youtu.be/_ZXz_9NL9qI
-152v	+8	-0	0c
+150v	+8	-0	0c
 
 === TOP VIDEOS ===
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
 https://youtu.be/OD0eR-eWp1g
-26938v	+167	-14	56c
+26934v	+167	-14	56c
 
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
 https://youtu.be/unuU-hx2lSc
-10361v	+77	-3	58c
+10358v	+77	-3	58c
 
 20170729 ”我心翱翔“SNH48 Group第四届偶像年度人气总决选演唱会直播（非官方）
 https://youtu.be/gpCaUqYAmzg
@@ -51,7 +48,7 @@ https://youtu.be/Q_bvusD4jgg
 
 20170701 SNH48 Team SⅡ 第48区 02 张语格生日主题公演暨总选拉票公演
 https://youtu.be/q25sTDMFAdU
-7555v	+88	-2	25c
+7554v	+87	-2	25c
 
 20171001 SNH48 “歌唱祖国”国庆节特别公演
 https://youtu.be/t1Tj7Hvxiz8
@@ -59,7 +56,7 @@ https://youtu.be/t1Tj7Hvxiz8
 
 20171010 SNH48 48狼人杀 01
 https://youtu.be/ZIDffMW2bF0
-6979v	+59	-4	19c
+6976v	+59	-4	19c
 
 20170909 SNH48 Team SⅡ 剧场四周年特别公演
 https://youtu.be/zvgqY5fMJFI
@@ -68,19 +65,4 @@ https://youtu.be/zvgqY5fMJFI
 20170827 SNH48 “佳期如梦”七夕情人节特别公演
 https://youtu.be/M6aFWdm2Hx8
 5666v	+72	-0	16c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-06 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-22 [video] 20171124 SNH48 Team SⅡ 第48区 21 星梦学院主题公演
-   https://youtu.be/kstMxsv8HLI
-
-27 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
-   https://youtu.be/unuU-hx2lSc
-
-50 [video] 20171115 SNH48 Team NⅡ N队成立四周年特别公演
-   https://youtu.be/tYw_efMvgSE
 
