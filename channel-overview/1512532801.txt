@@ -1,28 +1,25 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        259
 videos:      523
-subscribers: 2368
-views:       465992
+subscribers: 2367
+views:       465808
 
 === RECENT VIDEOS ===
 20171205 SNH48 48狼人杀 07
 https://youtu.be/CXSktryOsw0
-378v	+9	-0	0c
+348v	+9	-0	0c
 
 20171124 SNH48 Team SⅡ 金曲大赏特别赏析环节
 https://youtu.be/NnBk71Ay6uc
-276v	+11	-0	1c
+271v	+11	-0	1c
 
 20171123 SNH48 Team HⅡ 金曲大赏特别赏析环节
 https://youtu.be/3EDH7t6_izw
-79v	+3	-0	1c
+77v	+3	-0	1c
 
 20171122 SNH48 Team X 金曲大赏特别赏析环节
 https://youtu.be/B_aGyxeiT1E
-106v	+5	-0	0c
+102v	+5	-0	0c
 
 20171203 SNH48 Team X 梦想的旗帜 68 B50中报
 https://youtu.be/tb5-uRf_vgs
@@ -31,7 +28,7 @@ https://youtu.be/tb5-uRf_vgs
 === TOP VIDEOS ===
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
 https://youtu.be/OD0eR-eWp1g
-27660v	+169	-14	56c
+27658v	+169	-14	56c
 
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
 https://youtu.be/unuU-hx2lSc
@@ -59,7 +56,7 @@ https://youtu.be/t1Tj7Hvxiz8
 
 20171010 SNH48 48狼人杀 01
 https://youtu.be/ZIDffMW2bF0
-7347v	+57	-4	19c
+7343v	+57	-4	19c
 
 20170909 SNH48 Team SⅡ 剧场四周年特别公演
 https://youtu.be/zvgqY5fMJFI
@@ -68,34 +65,4 @@ https://youtu.be/zvgqY5fMJFI
 20170827 SNH48 “佳期如梦”七夕情人节特别公演
 https://youtu.be/M6aFWdm2Hx8
 5788v	+72	-0	16c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-05 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-06 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-12 [video] 20171201 SNH48 Team SⅡ 第48区 22 重庆巡演
-   https://youtu.be/DSixS-bU6-M
-
-17 [video] 20171202 SNH48 Team XⅡ XⅡ成立两周年特别公演
-   https://youtu.be/sStiSEuqfz0
-
-18 [video] 20171202 SNH48 Team NⅡ 以爱之名 10
-   https://youtu.be/UScoUIRBOL4
-
-20 [video] 20171202 SNH48 Team SⅡ 第48区 23 重庆巡演
-   https://youtu.be/pyxQH_NQ8cI
-
-26 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
-   https://youtu.be/unuU-hx2lSc
-
-37 [video] 20171031 SNH48 万圣节特别公演
-   https://youtu.be/TJ1yUaYAJnw
-
-40 [video] 20171126 SNH48 Team SⅡ “西湖暖风来” 咪咕音乐杭州专场
-   https://youtu.be/4ytCTKRMcIQ
 
