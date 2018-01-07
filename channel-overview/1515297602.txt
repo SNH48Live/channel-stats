@@ -1,20 +1,17 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        291
 videos:      591
 subscribers: 2803
-views:       554672
+views:       554670
 
 === RECENT VIDEOS ===
 20180106 SNH48 Team NⅡ 以爱之名 13 何晓玉生日主题公演
 https://youtu.be/2-c-0mC0weo
-274v	+16	-0	3c
+274v	+15	-0	3c
 
 20180106 SNH48 Team X 命运的X号 05
 https://youtu.be/10tV2bgtvBs
-359v	+17	-0	3c
+359v	+16	-0	3c
 
 20180105 SNH48 《向阳的星光》歌舞剧
 https://youtu.be/LuXPtgukQP8
@@ -68,34 +65,4 @@ https://youtu.be/zvgqY5fMJFI
 20170827 SNH48 “佳期如梦”七夕情人节特别公演
 https://youtu.be/M6aFWdm2Hx8
 6099v	+75	-0	16c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-06 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-18 [video] 20171221 SNH48 Team NⅡ 以爱之名 12
-   https://youtu.be/PG1jH7kPano
-
-26 [video] 20171231 SNH48 2018新年主题公演
-   https://youtu.be/ffX9fOGy_QA
-
-31 [video] 20171215 SNH48 Team X 命运的X号 01
-   https://youtu.be/evRIju_NkNQ
-
-37 [video] 20180105 SNH48 《向阳的星光》歌舞剧
-   https://youtu.be/LuXPtgukQP8
-
-38 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
-   https://youtu.be/unuU-hx2lSc
-
-39 [video] 20171202 SNH48 Team SⅡ 第48区 23 重庆巡演
-   https://youtu.be/pyxQH_NQ8cI
-
-40 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-42 [video] 20180101 SNH48 Team HⅡ 美丽世界 46
-   https://youtu.be/--GdgLqhsDo
 
