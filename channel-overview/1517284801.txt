@@ -1,16 +1,13 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        314
 videos:      621
 subscribers: 2988
-views:       620157
+views:       620029
 
 === RECENT VIDEOS ===
 20180128 SNH48 Team X 命运的X号 08
 https://youtu.be/s28ovg31HwE
-264v	+8	-0	1c
+258v	+8	-0	1c
 
 20180128 SNH48 Team HⅡ 美丽世界 50 徐晗生日主题公演
 https://youtu.be/FjXFJAB1Hno
@@ -18,7 +15,7 @@ https://youtu.be/FjXFJAB1Hno
 
 20180126 SNH48 Team SⅡ 第48区 26
 https://youtu.be/3YdRb-QVQCY
-352v	+16	-1	0c
+344v	+15	-1	0c
 
 20180126 SNH48 星梦Mini Live（江真仪）
 https://youtu.be/sgK3HqDX1Ww
@@ -47,7 +44,7 @@ https://youtu.be/gpCaUqYAmzg
 
 20170630 SNH48 Team SⅡ 第48区 01
 https://youtu.be/Q_bvusD4jgg
-8877v	+110	-2	28c
+8874v	+110	-2	28c
 
 20171010 SNH48 48狼人杀 01
 https://youtu.be/ZIDffMW2bF0
@@ -59,46 +56,13 @@ https://youtu.be/q25sTDMFAdU
 
 20171001 SNH48 “歌唱祖国”国庆节特别公演
 https://youtu.be/t1Tj7Hvxiz8
-8368v	+65	-5	29c
+8364v	+65	-5	29c
 
 20170909 SNH48 Team SⅡ 剧场四周年特别公演
 https://youtu.be/zvgqY5fMJFI
-7972v	+113	-2	33c
+7969v	+113	-2	33c
 
 20170827 SNH48 “佳期如梦”七夕情人节特别公演
 https://youtu.be/M6aFWdm2Hx8
-6312v	+76	-0	16c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-06 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-17 [video] 20180117 SNH48 Team X 命运的X号 07
-   https://youtu.be/4v58D4sx4nA
-
-27 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-30 [video] 20180121 SNH48 Team NⅡ 以爱之名 16 陆婷生日主题公演
-   https://youtu.be/--0vlAYinVw
-
-35 [video] 20180123 SNH48 48狼人杀 13
-   https://youtu.be/Dzl5OzthM1U
-
-36 [video] 20171111 SNH48 Team SⅡ S队成立四周年特别公演
-   https://youtu.be/JFved88vYWM
-
-37 [video] 20171201 SNH48 Team SⅡ 第48区 22 重庆巡演
-   https://youtu.be/DSixS-bU6-M
-
-39 [video] 20171231 SNH48 2018新年主题公演
-   https://youtu.be/ffX9fOGy_QA
-
-41 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
-   https://youtu.be/unuU-hx2lSc
-
-46 [video] 20171202 SNH48 Team SⅡ 第48区 23 重庆巡演
-   https://youtu.be/pyxQH_NQ8cI
+6310v	+76	-0	16c
 
