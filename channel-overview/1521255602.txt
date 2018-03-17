@@ -1,16 +1,13 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        360
 videos:      684
 subscribers: 3344
-views:       745315
+views:       745297
 
 === RECENT VIDEOS ===
 20180304 SNH48 Team X 命运的X号 10
 https://youtu.be/GjTimCrThVk
-785v	+15	-1	2c
+781v	+15	-1	2c
 
 20180304 SNH48 Team NⅡ 江真仪生日主题公演暨忆往昔特别公演
 https://youtu.be/q8UqHeHXQvY
@@ -31,7 +28,7 @@ https://youtu.be/rTODnS_AUD0
 === TOP VIDEOS ===
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
 https://youtu.be/OD0eR-eWp1g
-33593v	+190	-15	59c
+33591v	+190	-15	59c
 
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
 https://youtu.be/unuU-hx2lSc
@@ -68,16 +65,4 @@ https://youtu.be/zvgqY5fMJFI
 20170827 SNH48 “佳期如梦”七夕情人节特别公演
 https://youtu.be/M6aFWdm2Hx8
 6863v	+82	-1	16c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-18 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-21 [video] 20180210 SNH48 春晚主题公演
-   https://youtu.be/R7t9_kIO-Ko
-
-42 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
 
