@@ -1,11 +1,8 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        368
 videos:      697
 subscribers: 3399
-views:       765864
+views:       765776
 
 === RECENT VIDEOS ===
 20180322 SNH48 Team SⅡ 第48区 31
@@ -68,22 +65,4 @@ https://youtu.be/zvgqY5fMJFI
 20171201 SNH48 Team SⅡ 第48区 22 重庆巡演
 https://youtu.be/DSixS-bU6-M
 6974v	+93	-2	11c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-15 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-16 [video] 20180317 SNH48 Team SⅡ 第48区 29 徐伊人生日主题公演
-   https://youtu.be/dibh5Q8aeQY
-
-19 [video] 20180322 SNH48 Team SⅡ 第48区 31
-   https://youtu.be/fgyaN3PH4M8
-
-21 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-30 [video] 20180210 SNH48 春晚主题公演
-   https://youtu.be/R7t9_kIO-Ko
 
