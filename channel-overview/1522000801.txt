@@ -1,32 +1,29 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
-days:        369
-videos:      703
-subscribers: 3399
-views:       768374
+days:        368
+videos:      702
+subscribers: 3400
+views:       766986
 
 === RECENT VIDEOS ===
 20180325 SNH48 Team NⅡ 以爱之名 17 新N队首演
 https://youtu.be/0BJTBRyuyKM
-247v	+15	-1	1c
-
-20180325 SNH48 Team Ft 梦想的旗帜 03
-https://youtu.be/hgoORv2ig5k
-51v	+6	-0	0c
+7v	+1	-0	0c
 
 20180324 SNH48 Team Ft 梦想的旗帜 02
 https://youtu.be/tgKi2xQ6rTw
-41v	+5	-0	1c
-
-20180324 SNH48 Team X 命运的X号 14
-https://youtu.be/0rnrgu17ptE
-19v	+3	-0	0c
+5v	+0	-0	0c
 
 20180323 SNH48 Team Ft 梦想的旗帜 01
 https://youtu.be/ZNjJ1D7nToQ
-73v	+6	-0	0c
+9v	+1	-0	0c
+
+20180325 SNH48 Team Ft 梦想的旗帜 03
+https://youtu.be/hgoORv2ig5k
+11v	+1	-0	0c
+
+20180324 SNH48 Team X 命运的X号 14
+https://youtu.be/0rnrgu17ptE
+7v	+0	-0	0c
 
 === TOP VIDEOS ===
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
@@ -68,22 +65,4 @@ https://youtu.be/zvgqY5fMJFI
 20171201 SNH48 Team SⅡ 第48区 22 重庆巡演
 https://youtu.be/DSixS-bU6-M
 7006v	+94	-2	11c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-13 [video] 20180322 SNH48 Team SⅡ 第48区 31
-   https://youtu.be/fgyaN3PH4M8
-
-16 [video] 20180317 SNH48 Team SⅡ 第48区 29 徐伊人生日主题公演
-   https://youtu.be/dibh5Q8aeQY
-
-17 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-22 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-28 [video] 20180210 SNH48 春晚主题公演
-   https://youtu.be/R7t9_kIO-Ko
 
