@@ -1,41 +1,38 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        389
 videos:      717
-subscribers: 3503
-views:       807774
+subscribers: 3500
+views:       807348
 
 === RECENT VIDEOS ===
 20180414 SNH48 Team HⅡ New H Stars 03
 https://youtu.be/SAXBBQtoIWg
-190v	+8	-0	0c
+0v	+0	-0	0c
 
 20180414 SNH48 Team NII 以爱之名 20
 https://youtu.be/Cp-koUtdHSk
-140v	+9	-0	0c
+59v	+3	-0	0c
 
 20180413 SNH48 Team X 命运的X号 17
 https://youtu.be/yn6Ga1O2J44
-216v	+8	-0	0c
+199v	+8	-0	0c
 
 20180412 SNH48 Team SⅡ 第48区 34
 https://youtu.be/OyHAhtf6v94
-1160v	+44	-0	4c
+1130v	+44	-0	4c
 
 20180411 SNH48 Team NII 以爱之名 19
 https://youtu.be/4RgRf77IIMw
-601v	+12	-0	2c
+596v	+12	-0	2c
 
 === TOP VIDEOS ===
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
 https://youtu.be/OD0eR-eWp1g
-34550v	+195	-15	59c
+34542v	+195	-15	59c
 
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
 https://youtu.be/unuU-hx2lSc
-14965v	+102	-3	63c
+14965v	+101	-3	63c
 
 20170707 SNH48 星机女学院 第01集
 https://youtu.be/fCxLhzy4jRU
@@ -43,11 +40,11 @@ https://youtu.be/fCxLhzy4jRU
 
 20171010 SNH48 48狼人杀 01
 https://youtu.be/ZIDffMW2bF0
-10062v	+63	-7	27c
+10061v	+63	-7	27c
 
 20170630 SNH48 Team SⅡ 第48区 01
 https://youtu.be/Q_bvusD4jgg
-9918v	+119	-2	29c
+9915v	+119	-2	29c
 
 20170729 ”我心翱翔“SNH48 Group第四届偶像年度人气总决选演唱会直播（非官方）
 https://youtu.be/gpCaUqYAmzg
@@ -67,23 +64,5 @@ https://youtu.be/zvgqY5fMJFI
 
 20171201 SNH48 Team SⅡ 第48区 22 重庆巡演
 https://youtu.be/DSixS-bU6-M
-7278v	+95	-2	11c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-16 [video] 20180412 SNH48 Team SⅡ 第48区 34
-   https://youtu.be/OyHAhtf6v94
-
-17 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-30 [video] 20180210 SNH48 春晚主题公演
-   https://youtu.be/R7t9_kIO-Ko
-
-34 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-39 [video] 20180325 SNH48 Team NⅡ 以爱之名 17 新N队首演
-   https://youtu.be/0BJTBRyuyKM
+7276v	+95	-2	11c
 
