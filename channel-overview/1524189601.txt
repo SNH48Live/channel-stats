@@ -1,20 +1,17 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        394
 videos:      720
 subscribers: 3520
-views:       817370
+views:       817346
 
 === RECENT VIDEOS ===
 20180414 SNH48 Team HⅡ New H Stars 03
 https://youtu.be/SAXBBQtoIWg
-1179v	+29	-0	1c
+1176v	+29	-0	1c
 
 20180414 SNH48 Team NII 以爱之名 20
 https://youtu.be/Cp-koUtdHSk
-790v	+17	-0	0c
+781v	+17	-0	0c
 
 20180413 SNH48 Team X 命运的X号 17
 https://youtu.be/yn6Ga1O2J44
@@ -22,16 +19,16 @@ https://youtu.be/yn6Ga1O2J44
 
 20180412 SNH48 Team SⅡ 第48区 34
 https://youtu.be/OyHAhtf6v94
-1611v	+49	-0	4c
+1608v	+49	-0	4c
 
 20180411 SNH48 Team NII 以爱之名 19
 https://youtu.be/4RgRf77IIMw
-748v	+13	-0	2c
+745v	+13	-0	2c
 
 === TOP VIDEOS ===
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
 https://youtu.be/OD0eR-eWp1g
-34697v	+196	-15	59c
+34697v	+195	-15	59c
 
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
 https://youtu.be/unuU-hx2lSc
@@ -39,15 +36,15 @@ https://youtu.be/unuU-hx2lSc
 
 20170707 SNH48 星机女学院 第01集
 https://youtu.be/fCxLhzy4jRU
-11293v	+114	-1	23c
+11290v	+114	-1	23c
 
 20171010 SNH48 48狼人杀 01
 https://youtu.be/ZIDffMW2bF0
-10121v	+63	-7	27c
+10120v	+63	-7	27c
 
 20170630 SNH48 Team SⅡ 第48区 01
 https://youtu.be/Q_bvusD4jgg
-9958v	+119	-2	29c
+9956v	+119	-2	29c
 
 20170729 ”我心翱翔“SNH48 Group第四届偶像年度人气总决选演唱会直播（非官方）
 https://youtu.be/gpCaUqYAmzg
@@ -67,23 +64,5 @@ https://youtu.be/zvgqY5fMJFI
 
 20171201 SNH48 Team SⅡ 第48区 22 重庆巡演
 https://youtu.be/DSixS-bU6-M
-7348v	+96	-2	11c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-18 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-30 [video] 20180210 SNH48 春晚主题公演
-   https://youtu.be/R7t9_kIO-Ko
-
-42 [video] 20180412 SNH48 Team SⅡ 第48区 34
-   https://youtu.be/OyHAhtf6v94
-
-45 [video] 20180325 SNH48 Team NⅡ 以爱之名 17 新N队首演
-   https://youtu.be/0BJTBRyuyKM
-
-46 [video] 20180414 SNH48 Team NII 以爱之名 20
-   https://youtu.be/Cp-koUtdHSk
+7347v	+96	-2	11c
 
