@@ -1,6 +1,3 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        401
 videos:      724
@@ -68,13 +65,4 @@ https://youtu.be/zvgqY5fMJFI
 20171201 SNH48 Team SⅡ 第48区 22 重庆巡演
 https://youtu.be/DSixS-bU6-M
 7446v	+96	-2	11c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-35 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-37 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
 
