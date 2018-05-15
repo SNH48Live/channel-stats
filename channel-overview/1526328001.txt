@@ -1,11 +1,8 @@
-CHANNEL OVERVIEW
--------------------------------------------------------------------------------
-
 === CHANNEL ===
 days:        419
 videos:      724
 subscribers: 3595
-views:       848464
+views:       848071
 
 === RECENT VIDEOS ===
 20180414 SNH48 Team HⅡ New H Stars 03
@@ -14,15 +11,15 @@ https://youtu.be/SAXBBQtoIWg
 
 20180414 SNH48 Team NII 以爱之名 20
 https://youtu.be/Cp-koUtdHSk
-1572v	+22	-0	0c
+1569v	+22	-0	0c
 
 20180413 SNH48 Team X 命运的X号 17
 https://youtu.be/yn6Ga1O2J44
-539v	+11	-0	0c
+538v	+11	-0	0c
 
 20180412 SNH48 Team SⅡ 第48区 34
 https://youtu.be/OyHAhtf6v94
-2469v	+54	-0	5c
+2464v	+54	-0	5c
 
 20180411 SNH48 Team NII 以爱之名 19
 https://youtu.be/4RgRf77IIMw
@@ -31,7 +28,7 @@ https://youtu.be/4RgRf77IIMw
 === TOP VIDEOS ===
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
 https://youtu.be/OD0eR-eWp1g
-35506v	+199	-15	59c
+35503v	+199	-15	59c
 
 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 发表部分
 https://youtu.be/unuU-hx2lSc
@@ -39,11 +36,11 @@ https://youtu.be/unuU-hx2lSc
 
 20170707 SNH48 星机女学院 第01集
 https://youtu.be/fCxLhzy4jRU
-11618v	+116	-1	25c
+11612v	+116	-1	25c
 
 20171010 SNH48 48狼人杀 01
 https://youtu.be/ZIDffMW2bF0
-10352v	+64	-7	28c
+10344v	+64	-7	28c
 
 20170630 SNH48 Team SⅡ 第48区 01
 https://youtu.be/Q_bvusD4jgg
@@ -67,20 +64,5 @@ https://youtu.be/zvgqY5fMJFI
 
 20171201 SNH48 Team SⅡ 第48区 22 重庆巡演
 https://youtu.be/DSixS-bU6-M
-7782v	+97	-2	12c
-
-SEARCH RANKING
--------------------------------------------------------------------------------
-
-31 [video] 20170729 “我心翱翔”SNH48 Group第四届偶像年度人气总决选演唱会 演唱会部分
-   https://youtu.be/OD0eR-eWp1g
-
-41 [channel] SNH48 Live
-   https://youtube.com/channel/UC10BBCJQasWk_08Fdz0XCsQ
-
-42 [video] 20180210 SNH48 春晚主题公演
-   https://youtu.be/R7t9_kIO-Ko
-
-49 [video] 20180209 SNH48 春晚主题公演
-   https://youtu.be/PoogBB-R130
+7779v	+97	-2	12c
 
